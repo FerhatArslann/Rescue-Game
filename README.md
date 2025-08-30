@@ -24,7 +24,8 @@ This game was made together with my classmates in 2023. It’s a small Unity pro
 ![Gameplay - at daytime](docs/screenshots/missing_guy.png)
 
 ## 🎥 Demo Video
-*(short gameplay demo)*
+**Click the image below to watch a demo video on Vimeo.**
+[![Watch the demo](docs/screenshots/demo.png)](https://vimeo.com/1114466293)
 
 ## 🛠️ Technologies Used
 - **Engine:** Unity 
