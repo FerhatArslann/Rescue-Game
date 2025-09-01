@@ -25,7 +25,7 @@ This game was made together with my classmates in 2023. It’s a small Unity pro
 
 ## 🎥 Demo Video
 *Watch it here:*
-https://vimeo.com/1114466293
+https://www.youtube.com/watch?v=f0Xz6sjcyJg
 
 ## 🛠️ Technologies Used
 - **Engine:** Unity 
